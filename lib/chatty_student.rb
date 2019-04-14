@@ -7,6 +7,15 @@ ight? You didn't?! Oh man, it was so crazy! What, you don't want any spoilers? O
 
   def raise_hand
     super
+    super
+    super
+    super
+    super
+    super
+    super
+    super
+    super
+    super
   end
 
 
